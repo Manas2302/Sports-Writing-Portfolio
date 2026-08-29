@@ -29,9 +29,6 @@ A sample demonstrating my approach to MMA related sports writing.
 
 ## Contact
 
-Manas Tewari
-Email: manastewari07@gmail.com
-
 **Manas Tewari**
 
-Email: your-email@example.com
+Email: manastewari07@gmail.com
