@@ -1,6 +1,6 @@
 # Sports-Writing-Portfolio
 Sports writing portfolio featuring original articles, analysis, features, and opinion pieces across multiple sports.
-# Sports Writing Portfolio
+
 
 Hi, I'm Manas Tewari, a sports enthusiast and aspiring sports content writer.
 
