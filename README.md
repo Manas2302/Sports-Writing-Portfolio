@@ -10,13 +10,13 @@ This repository contains some of my original sports writing samples. I am comfor
 
 ### Cricket
 
-**[Ranking India's Greatest Men's T20I Batting Innings: A Tier List]**
+**[india-t20i-batting-innings-tier-list](https://github.com/Manas2302/Sports-Writing-Portfolio/blob/main/Ranking%20India's%20Greatest%20Men's%20T20I%20Batting%20Innings%20A%20Tier%20List.pdf)**
 
 A tier based ranking of some of India's most memorable men's T20I batting performances, focusing on the impact and context behind each innings.
 
 ### MMA
 
-**[MMA Writing Sample]**
+**[MMA Writing Sample](https://github.com/Manas2302/Sports-Writing-Portfolio/blob/main/3%20UFC%20HOT%20TAKES%20WHICH%20MIGHT%20CAUSE%20A%20WAR.pdf)**
 
 A sample demonstrating my approach to MMA related sports writing.
 
